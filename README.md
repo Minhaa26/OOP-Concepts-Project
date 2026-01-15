@@ -155,4 +155,4 @@ All examples are simple, well-organized, and easy to understand.
 ---
 
 ## Author
-Minahil abid
+Minahil Abid
