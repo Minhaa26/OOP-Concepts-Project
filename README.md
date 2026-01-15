@@ -146,13 +146,6 @@ OOP/abstraction.cpp
 
 ---
 
-## Conclusion
-
-This project provides a clear understanding of programming
-basics and Object-Oriented Programming concepts.
-All examples are simple, well-organized, and easy to understand.
-
----
 
 ## Author
 Minahil Abid
