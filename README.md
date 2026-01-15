@@ -19,7 +19,7 @@ what operations can be performed on the data.
 - char: Stores a single character
 - bool: Stores true or false values
 
-📁 File:
+File:
 DataTypes/datatypes.cpp
 
 ---
@@ -32,7 +32,7 @@ Variables allow programs to store, update, and use data during execution.
 ### Example:
 A variable can store age, marks, or any numerical value.
 
-📁 File:
+File:
 Variables/variables.cpp
 
 ---
@@ -47,7 +47,7 @@ before the execution of the loop.
 - Reduces code repetition
 - Improves program efficiency
 
-📁 File:
+File:
 Loops/for_loop.cpp
 
 ---
@@ -68,7 +68,7 @@ Stores elements in rows and columns (matrix form).
 ### 4.3 Three Dimensional Array (3D)
 Stores data in multiple layers.
 
-📁 Files:
+Files:
 Arrays/array_1D.cpp  
 Arrays/array_2D.cpp  
 Arrays/array_3D.cpp  
@@ -83,7 +83,7 @@ An object is a real-world entity created from a class.
 ### Example:
 A class "Student" can have attributes like id and name.
 
-📁 File:
+File:
 OOP/class_object.cpp
 
 ---
@@ -98,7 +98,7 @@ and behaviors of another class.
 - Easy maintenance
 - Improved readability
 
-📁 File:
+File:
 OOP/inheritance.cpp
 
 ---
@@ -112,7 +112,7 @@ depending on the object.
 ### Example:
 Function overriding using base and derived classes.
 
-📁 File:
+File:
 OOP/polymorphism.cpp
 
 ---
@@ -127,7 +127,7 @@ It helps in data hiding and protects data from unauthorized access.
 - Private data members
 - Public getter and setter methods
 
-📁 File:
+File:
 OOP/encapsulation.cpp
 
 ---
@@ -141,7 +141,7 @@ essential features to the user.
 - Abstract classes
 - Pure virtual functions (interfaces)
 
-📁 File:
+File:
 OOP/abstraction.cpp
 
 ---
